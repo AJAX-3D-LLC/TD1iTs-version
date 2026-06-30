@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "product": "TD1",
+  "updated": "2026-06-30",
+  "interfaceTool": {
+    "standalone": {
+      "name": "TD1 Interface Tool: Standalone",
+      "latestVersion": "1.0.0",
+      "minimumSupportedVersion": "1.0.0",
+      "status": "current",
+      "releaseDate": "2026-06-30",
+      "releaseNotes": "Initial standalone TD1 Interface Tool version-check endpoint.",
+      "downloadUrl": ""
+    }
+  },
+  "firmware": {
+    "name": "TD1 Firmware",
+    "latestVersion": "1.0.4",
+    "minimumSupportedVersion": "1.0.0",
+    "status": "current",
+    "releaseDate": "2026-06-30",
+    "releaseNotes": "Replace this with your TD1 firmware release notes.",
+    "downloadUrl": "https://YOUR_GITHUB_USERNAME.github.io/td1-version/downloads/TD1_Firmware_v1.0.4.zip",
+    "fileName": "TD1_Firmware_v1.0.4.zip",
+    "fileSize": 268,
+    "sha256": "1a4382b903b9ce5f0c162e2ac8e92a00e9200f896c9dbf03e9c01bf476652ae6"
+  }
+}
