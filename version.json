@@ -4,13 +4,75 @@
   "updated": "2026-06-30",
   "interfaceTool": {
     "standalone": {
+      "schemaVersion": 1,
       "name": "TD1 Interface Tool: Standalone",
+      "channel": "stable",
       "latestVersion": "1.0.0",
       "minimumSupportedVersion": "1.0.0",
       "status": "current",
       "releaseDate": "2026-06-30",
-      "releaseNotes": "Initial standalone TD1 Interface Tool version-check endpoint.",
-      "downloadUrl": ""
+      "releaseNotes": "Initial standalone TD1 Interface Tool release.",
+      "downloads": {
+        "windows": {
+          "displayName": "Windows",
+          "os": "windows",
+          "architecture": "x64",
+          "fileName": "TD1_Interface_Tool_Standalone_Windows_v1.0.0.zip",
+          "downloadUrl": "https://version.ajax-3d.com/td1-version/downloads/interface-tool/windows/TD1_Interface_Tool_Standalone_Windows_v1.0.0.zip",
+          "fileSize": 235,
+          "sha256": "a733e1ecc52a3563fcb6d3c60cd5a502a571a2516edc5970e08d30517a999df8"
+        },
+        "macos": {
+          "displayName": "macOS",
+          "os": "macos",
+          "architecture": "universal",
+          "fileName": "TD1_Interface_Tool_Standalone_macOS_v1.0.0.zip",
+          "downloadUrl": "https://version.ajax-3d.com/td1-version/downloads/interface-tool/macos/TD1_Interface_Tool_Standalone_macOS_v1.0.0.zip",
+          "fileSize": 233,
+          "sha256": "fc4a5ab05b159a16b9ba1529c7ba6511ea183234008f04d5293b29739f899648"
+        },
+        "linux": {
+          "displayName": "Linux",
+          "os": "linux",
+          "architecture": "x64",
+          "fileName": "TD1_Interface_Tool_Standalone_Linux_v1.0.0.zip",
+          "downloadUrl": "https://version.ajax-3d.com/td1-version/downloads/interface-tool/linux/TD1_Interface_Tool_Standalone_Linux_v1.0.0.zip",
+          "fileSize": 234,
+          "sha256": "c4dde795d40f15caa9ee7285721403e78c6d78fdfc61b78aafe725e23a1de98c"
+        }
+      },
+      "downloadList": [
+        {
+          "platform": "windows",
+          "displayName": "Windows",
+          "os": "windows",
+          "architecture": "x64",
+          "fileName": "TD1_Interface_Tool_Standalone_Windows_v1.0.0.zip",
+          "downloadUrl": "https://version.ajax-3d.com/td1-version/downloads/interface-tool/windows/TD1_Interface_Tool_Standalone_Windows_v1.0.0.zip",
+          "fileSize": 235,
+          "sha256": "a733e1ecc52a3563fcb6d3c60cd5a502a571a2516edc5970e08d30517a999df8"
+        },
+        {
+          "platform": "macos",
+          "displayName": "macOS",
+          "os": "macos",
+          "architecture": "universal",
+          "fileName": "TD1_Interface_Tool_Standalone_macOS_v1.0.0.zip",
+          "downloadUrl": "https://version.ajax-3d.com/td1-version/downloads/interface-tool/macos/TD1_Interface_Tool_Standalone_macOS_v1.0.0.zip",
+          "fileSize": 233,
+          "sha256": "fc4a5ab05b159a16b9ba1529c7ba6511ea183234008f04d5293b29739f899648"
+        },
+        {
+          "platform": "linux",
+          "displayName": "Linux",
+          "os": "linux",
+          "architecture": "x64",
+          "fileName": "TD1_Interface_Tool_Standalone_Linux_v1.0.0.zip",
+          "downloadUrl": "https://version.ajax-3d.com/td1-version/downloads/interface-tool/linux/TD1_Interface_Tool_Standalone_Linux_v1.0.0.zip",
+          "fileSize": 234,
+          "sha256": "c4dde795d40f15caa9ee7285721403e78c6d78fdfc61b78aafe725e23a1de98c"
+        }
+      ]
     }
   },
   "firmware": {
