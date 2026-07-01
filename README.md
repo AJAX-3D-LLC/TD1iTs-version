@@ -14,19 +14,6 @@ This repo is intended to be published with GitHub Pages.
 | `downloads/TD1_Firmware_v1.0.4.zip` | Firmware ZIP download placeholder; replace with your real firmware ZIP |
 | `.nojekyll` | Tells GitHub Pages to serve files as plain static files |
 
-## Recommended URLs after GitHub Pages is enabled
-
-Replace `YOUR_GITHUB_USERNAME` and `td1-version` with your real account/repo names.
-
-```text
-https://YOUR_GITHUB_USERNAME.github.io/td1-version/version.json
-https://YOUR_GITHUB_USERNAME.github.io/td1-version/td1-interface-standalone.json
-https://YOUR_GITHUB_USERNAME.github.io/td1-version/td1-firmware.json
-https://YOUR_GITHUB_USERNAME.github.io/td1-version/downloads/TD1_Firmware_v1.0.4.zip
-```
-
-If you add a custom domain, replace the base URL with your domain, for example:
-
 ```text
 https://version.ajax-3d.com/version.json
 ```
