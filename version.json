@@ -46,7 +46,7 @@
   "firmware": {
     "name": "TD1 Firmware",
     "latestVersion": "2.0.2",
-    "minimumSupportedVersion": "2.0.0",
+    "minimumSupportedVersion": "2.0.1",
     "status": "current",
     "releaseDate": "2026-06-30",
     "releaseNotes": [
