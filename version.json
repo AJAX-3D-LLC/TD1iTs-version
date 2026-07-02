@@ -47,6 +47,7 @@
     "name": "TD1 Firmware",
     "latestVersion": "2.0.2",
     "minimumSupportedVersion": "2.0.1",
+    "minimumBootloaderCommandVersion": "1.0.4",
     "status": "current",
     "releaseDate": "2026-06-30",
     "releaseNotes": [
@@ -59,9 +60,25 @@
       "Changed the \"PY\" connection indicator to \"PC\".",
       "Added a new connection indicator, \"TD\", for TD1 Interface Tool: Standalone."
     ],
-    "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-2.0.2.zip",
-    "fileName": "update-2.0.2.zip",
-    "fileSize": 31507,
-    "sha256": "0A08B5E3516B23B30C631276B331B1AFB09E102511DC1DEC9238A241D5FBAB61"
+    "downloads": {
+      "zipUpdate": {
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-2.0.2.zip",
+        "fileName": "update-2.0.2.zip",
+        "fileSize": 31507,
+        "sha256": "0A08B5E3516B23B30C631276B331B1AFB09E102511DC1DEC9238A241D5FBAB61"
+      },
+      "uf2Update": {
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/TD-1_V2.0.2.uf2"
+        "fileName": "TD-1_V2.0.2.uf2",
+        "fileSize": 0,
+        "sha256": "REPLACE_WITH_REAL_SHA256"
+      },
+      "bootloaderFile": {
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-bootloader.zip"
+        "fileName": "update-bootloader.zip",
+        "fileSize": 0,
+        "sha256": "REPLACE_WITH_REAL_SHA256"
+      }
+    }
   }
 }
