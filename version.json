@@ -95,7 +95,7 @@
       "downloads": {
         "zipUpdate": {
           "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td0-firmware-v1.0.0/update-1.0.0.zip",
-          "fileName": "update-1.0.2.zip",
+          "fileName": "update-1.0.0.zip",
           "fileSize": 0,
           "sha256": "REPLACE_WITH_REAL_SHA256"
         },
