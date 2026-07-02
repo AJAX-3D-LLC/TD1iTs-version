@@ -44,40 +44,67 @@
     }
   },
   "firmware": {
-    "name": "TD1 Firmware",
-    "latestVersion": "2.0.2",
-    "minimumSupportedVersion": "2.0.1",
-    "minimumBootloaderCommandVersion": "1.0.4",
-    "status": "current",
-    "releaseDate": "2026-06-30",
-    "releaseNotes": [
-      "NaN color calibration bug fix. (FINALLY)",
-      "Color calibration optimization that should now be better at adjusting colors closer to the white side of the spectrum.",
-      "Updated some modules to automatically select the correct module for the sensor hardware. This lays the groundwork for moving to new sensors for TD1 units, since the original sensors are now EOL (End of Life).",
-      "New file version reporting. The \"Get Version\" list now includes versions for settingsHelper and rgbOffsetHelper.",
-      "Running Recovery on a unit that is still functional will now report \"bootloader\" on screen and remove the connected host indicator (HF or PY).",
-      "All processes that force the unit to restart now remove the connected host indicator prior to restart.",
-      "Changed the \"PY\" connection indicator to \"PC\".",
-      "Added a new connection indicator, \"TD\", for TD1 Interface Tool: Standalone."
-    ],
-    "downloads": {
-      "zipUpdate": {
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-2.0.2.zip",
-        "fileName": "update-2.0.2.zip",
-        "fileSize": 31507,
-        "sha256": "0A08B5E3516B23B30C631276B331B1AFB09E102511DC1DEC9238A241D5FBAB61"
-      },
-      "uf2Update": {
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/TD-1_V2.0.2.uf2"
-        "fileName": "TD-1_V2.0.2.uf2",
-        "fileSize": 0,
-        "sha256": "REPLACE_WITH_REAL_SHA256"
-      },
-      "bootloaderFile": {
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-bootloader.zip"
-        "fileName": "update-bootloader.zip",
-        "fileSize": 0,
-        "sha256": "REPLACE_WITH_REAL_SHA256"
+    "TD1": {
+      "name": "TD1 Firmware",
+      "latestVersion": "2.0.2",
+      "minimumSupportedVersion": "2.0.1",
+      "minimumBootloaderCommandVersion": "1.0.4",
+      "status": "current",
+      "releaseDate": "2026-06-30",
+      "releaseNotes": [
+        "NaN color calibration bug fix. (FINALLY)",
+        "Color calibration optimization that should now be better at adjusting colors closer to the white side of the spectrum.",
+        "Updated some modules to automatically select the correct module for the sensor hardware. This lays the groundwork for moving to new sensors for TD1 units, since the original sensors are now EOL (End of Life).",
+        "New file version reporting. The \"Get Version\" list now includes versions for settingsHelper and rgbOffsetHelper.",
+        "Running Recovery on a unit that is still functional will now report \"bootloader\" on screen and remove the connected host indicator (HF or PY).",
+        "All processes that force the unit to restart now remove the connected host indicator prior to restart.",
+        "Changed the \"PY\" connection indicator to \"PC\".",
+        "Added a new connection indicator, \"TD\", for TD1 Interface Tool: Standalone."
+      ],
+      "downloads": {
+        "zipUpdate": {
+          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-2.0.2.zip",
+          "fileName": "update-2.0.2.zip",
+          "fileSize": 31507,
+          "sha256": "0A08B5E3516B23B30C631276B331B1AFB09E102511DC1DEC9238A241D5FBAB61"
+        },
+        "uf2Update": {
+          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/TD-1_V2.0.2.uf2",
+          "fileName": "TD-1_V2.0.2.uf2",
+          "fileSize": 0,
+          "sha256": "REPLACE_WITH_REAL_SHA256"
+        },
+        "bootloaderFile": {
+          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-bootloader.zip",
+          "fileName": "update-bootloader.zip",
+          "fileSize": 0,
+          "sha256": "REPLACE_WITH_REAL_SHA256"
+        }
+      }
+    },
+    "TD0": {
+      "name": "TD0 Firmware",
+      "latestVersion": "1.0.0",
+      "minimumSupportedVersion": "1.0.1",
+      "minimumBootloaderCommandVersion": "1.0.0",
+      "status": "current",
+      "releaseDate": "2026-06-30",
+      "releaseNotes": [
+        "Initial release of TD0 Firmware v1.0.0"
+      ],
+      "downloads": {
+        "zipUpdate": {
+          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td0-firmware-v1.0.0/update-1.0.0.zip",
+          "fileName": "update-2.0.2.zip",
+          "fileSize": 0,
+          "sha256": "REPLACE_WITH_REAL_SHA256"
+        },
+        "uf2Update": {
+          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td0-firmware-v1.0.0/TD0_V1.0.0.uf2",
+          "fileName": "TD0_V1.0.0.uf2",
+          "fileSize": 0,
+          "sha256": "REPLACE_WITH_REAL_SHA256"
+        }
       }
     }
   }
