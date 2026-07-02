@@ -85,7 +85,7 @@
     "TD0": {
       "name": "TD0 Firmware",
       "latestVersion": "1.0.0",
-      "minimumSupportedVersion": "1.0.1",
+      "minimumSupportedVersion": "1.0.0",
       "minimumBootloaderCommandVersion": "1.0.0",
       "status": "current",
       "releaseDate": "2026-06-30",
@@ -95,7 +95,7 @@
       "downloads": {
         "zipUpdate": {
           "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td0-firmware-v1.0.0/update-1.0.0.zip",
-          "fileName": "update-2.0.2.zip",
+          "fileName": "update-1.0.2.zip",
           "fileSize": 0,
           "sha256": "REPLACE_WITH_REAL_SHA256"
         },
