@@ -9,10 +9,6 @@ This repo is intended to be published with GitHub Pages.
 | File | Purpose |
 |------|---------|
 | `version.json` | Combined manifest for TD1 Interface Tool standalone and TD1 firmware |
-| `td1-interface-standalone.json` | Standalone TD1 Interface Tool version-check endpoint |
-| `td1-firmware.json` | TD1 firmware version-check endpoint and firmware download URL |
-| `downloads/TD1_Firmware_v1.0.4.zip` | Firmware ZIP download placeholder; replace with your real firmware ZIP |
-| `.nojekyll` | Tells GitHub Pages to serve files as plain static files |
 
 ```text
 https://version.ajax-3d.com/version.json
