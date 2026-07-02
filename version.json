@@ -69,16 +69,16 @@
           "sha256": "0A08B5E3516B23B30C631276B331B1AFB09E102511DC1DEC9238A241D5FBAB61"
         },
         "uf2Update": {
-          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/TD-1_V2.0.2.uf2",
-          "fileName": "TD-1_V2.0.2.uf2",
-          "fileSize": 0,
-          "sha256": "REPLACE_WITH_REAL_SHA256"
+          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/TD1_V2.0.2.uf2",
+          "fileName": "TD1_V2.0.2.uf2",
+          "fileSize": 4194304,
+          "sha256": "F7389945D80E665C26805EC8B4EB1FEDBB7FDB5EC1E7A4EB33F759E8481146ED"
         },
         "bootloaderFile": {
           "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-bootloader.zip",
           "fileName": "update-bootloader.zip",
-          "fileSize": 0,
-          "sha256": "REPLACE_WITH_REAL_SHA256"
+          "fileSize": 261,
+          "sha256": "EAE7C3846FA557187D0F209E44F1660A91C8553C1FA0D6F6D181B5A476DCCB0D"
         }
       }
     },
@@ -102,8 +102,8 @@
         "uf2Update": {
           "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td0-firmware-v1.0.0/TD0_V1.0.0.uf2",
           "fileName": "TD0_V1.0.0.uf2",
-          "fileSize": 0,
-          "sha256": "REPLACE_WITH_REAL_SHA256"
+          "fileSize": 4194304,
+          "sha256": "6FB0E62EC0D4E447BC1828CDAD90EB4307963E7B9C556341AF97618552ACC78C"
         }
       }
     }
