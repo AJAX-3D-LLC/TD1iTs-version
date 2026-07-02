@@ -22,7 +22,11 @@ https://version.ajax-3d.com/version.json
 
 1. Replace the firmware ZIP in `Releases`.
 2. Update `latestVersion`, `downloadUrl`, `fileName`, `fileSize`, and `sha256` in  `version.json`.
-3. Replace TD1iTs Installers for each platform in 'Releases'.Update `latestVersion` in `version.json` when the standalone interface tool changes.
-4. Update `latestVersion` in `version.json` when the standalone interface tool changes.
-5. Commit and push.
+3. Commit and push.
 
+
+## Replacing TD1iTs Installers
+
+1. Replace TD1iTs Installers for each platform in 'Releases'.Update `latestVersion` in `version.json` when the standalone interface tool changes.
+2. Update `latestVersion` in `version.json` when the standalone interface tool changes.
+3. Commit and push.
