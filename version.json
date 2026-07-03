@@ -73,12 +73,6 @@
           "fileName": "TD1_V2.0.2.uf2",
           "fileSize": 4194304,
           "sha256": "F7389945D80E665C26805EC8B4EB1FEDBB7FDB5EC1E7A4EB33F759E8481146ED"
-        },
-        "bootloaderFile": {
-          "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-bootloader.zip",
-          "fileName": "update-bootloader.zip",
-          "fileSize": 261,
-          "sha256": "EAE7C3846FA557187D0F209E44F1660A91C8553C1FA0D6F6D181B5A476DCCB0D"
         }
       }
     },
