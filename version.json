@@ -65,14 +65,14 @@
         "zipUpdate": {
           "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/update-2.0.2.zip",
           "fileName": "update-2.0.2.zip",
-          "fileSize": 31507,
-          "sha256": "F665E31E01839F0D5242BCCC95652528AD0504C3E7ABF59D7D5FCF3EFE25B1BE"
+          "fileSize": 31527,
+          "sha256": "A69D58C6D136724D775E1054EF412C39AAB5A50844E6460C06CF20197B97ADAF"
         },
         "uf2Update": {
           "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-firmware-v2.0.2/TD1_V2.0.2.uf2",
           "fileName": "TD1_V2.0.2.uf2",
           "fileSize": 4194304,
-          "sha256": "F7389945D80E665C26805EC8B4EB1FEDBB7FDB5EC1E7A4EB33F759E8481146ED"
+          "sha256": "6E4774E6C2E0B3EBC743D4ABAE5749F5A31E3CB50563CEA256A20F2D3CD9BAC6"
         }
       }
     },
