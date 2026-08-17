@@ -18,17 +18,17 @@
         "displayName": "Windows",
         "os": "windows",
         "architecture": "x64",
-        "fileName": "TD1_Interface_Tool_Standalone_Windows_v1.0.0.zip",
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-interface-v1.0.0/TD1_Interface_Tool_Standalone_Windows_v1.0.0.zip",
+        "fileName": "TD1InterfaceToolStandalone-1.0.0-Windows-Setup.exe",
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-interface-v1.0.0/TD1InterfaceToolStandalone-1.0.0-Windows-Setup.exe",
         "fileSize": 0,
-        "sha256": "REPLACE_WITH_REAL_SHA256"
+        "sha256": "45cfeda770958108bec56e1ea779b9647cd17203deb9e8d25217e1b694445ada"
       },
       "macos": {
         "displayName": "macOS",
         "os": "macos",
         "architecture": "universal",
-        "fileName": "TD1_Interface_Tool_Standalone_macOS_v1.0.0.zip",
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-interface-v1.0.0/TD1_Interface_Tool_Standalone_macOS_v1.0.0.zip",
+        "fileName": "TD1InterfaceToolStandalone-1.0.0-MacOS-Setup.exe",
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-interface-v1.0.0/TD1InterfaceToolStandalone-1.0.0-MacOS-Setup.exe",
         "fileSize": 0,
         "sha256": "REPLACE_WITH_REAL_SHA256"
       },
@@ -36,8 +36,8 @@
         "displayName": "Linux",
         "os": "linux",
         "architecture": "x64",
-        "fileName": "TD1_Interface_Tool_Standalone_Linux_v1.0.0.zip",
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-interface-v1.0.0/TD1_Interface_Tool_Standalone_Linux_v1.0.0.zip",
+        "fileName": "TD1InterfaceToolStandalone-1.0.0-Linux-Setup.exe",
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/td1-interface-v1.0.0/TD1InterfaceToolStandalone-1.0.0-Linux-Setup.exe",
         "fileSize": 0,
         "sha256": "REPLACE_WITH_REAL_SHA256"
       }
