@@ -6,7 +6,7 @@
     "schemaVersion": 1,
     "name": "TD1 Interface Tool: Standalone",
     "channel": "stable",
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "minimumSupportedVersion": "1.0.0",
     "status": "current",
     "releaseDate": "2026-07-01",
@@ -18,10 +18,10 @@
         "displayName": "Windows",
         "os": "windows",
         "architecture": "x64",
-        "fileName": "TD1InterfaceToolStandalone-1.0.0-Windows-Setup.exe",
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.0-Windows-Setup.exe",
+        "fileName": "TD1InterfaceToolStandalone-1.0.1-Windows-Setup.exe",
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.1-Windows-Setup.exe",
         "fileSize": 75603568,
-        "sha256": "798faaf1433b1d0da3790161f148efcb100b442ea9cb12a666880666e816cbe6"
+        "sha256": "dccd5e7ba1398d53e43484fec0065291a0dfefc92fa28dba9c3b7e0aa34e3958"
       },
       "macos": {
         "displayName": "macOS",
