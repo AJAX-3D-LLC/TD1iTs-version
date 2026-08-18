@@ -11,7 +11,7 @@
     "status": "current",
     "releaseDate": "2026-07-01",
     "releaseNotes": [
-      "Initial standalone TD1 Interface Tool release."
+      "Correctd an issue when selecting a license file to apply to a TD1."
     ],
     "downloads": {
       "windows": {
