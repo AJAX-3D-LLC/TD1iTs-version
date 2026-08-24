@@ -27,10 +27,10 @@
         "displayName": "macOS",
         "os": "macos",
         "architecture": "universal",
-        "fileName": "TD1InterfaceToolStandalone-1.0.0-MacOS-Setup.pkg",
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.0-MacOS-Setup.pkg",
+        "fileName": "TD1InterfaceToolStandalone-1.0.1-MacOS-Setup.pkg",
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.1-MacOS-Setup.pkg",
         "fileSize": 46090713,
-        "sha256": "917b33caf1da3685d2ba670e162766993dc1376842a4eb7aa5c9935c1faa2e69"
+        "sha256": "ecd8c78b52155f7c596f7cc616bd49e34e0c68569ce6b6c29bdf6f9171be5d39"
       },
       "linux": {
         "displayName": "Linux",
