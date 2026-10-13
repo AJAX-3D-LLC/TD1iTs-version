@@ -20,8 +20,8 @@
         "architecture": "x64",
         "fileName": "TD1InterfaceToolStandalone-1.0.2-Windows-Setup.exe",
         "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.2-Windows-Setup.exe",
-        "fileSize": 75603568,
-        "sha256": "68ee0ce16ef2c06caec62b12835ab9e939c17389baf5012bb5d55b22ae06f7f7"
+        "fileSize": 75598128,
+        "sha256": "e321964c5beacf3847dc91f1a8d4039c116e2ef81315f78bd1aaf34e0f651474"
       },
       "macos": {
         "displayName": "macOS",
