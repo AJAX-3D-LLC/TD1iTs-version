@@ -6,7 +6,7 @@
     "schemaVersion": 1,
     "name": "TD1 Interface Tool: Standalone",
     "channel": "stable",
-    "latestVersion": "1.0.1",
+    "latestVersion": "1.0.2",
     "minimumSupportedVersion": "1.0.0",
     "status": "current",
     "releaseDate": "2026-07-01",
@@ -18,19 +18,19 @@
         "displayName": "Windows",
         "os": "windows",
         "architecture": "x64",
-        "fileName": "TD1InterfaceToolStandalone-1.0.1-Windows-Setup.exe",
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.1-Windows-Setup.exe",
-        "fileSize": 75595752,
-        "sha256": "dccd5e7ba1398d53e43484fec0065291a0dfefc92fa28dba9c3b7e0aa34e3958"
+        "fileName": "TD1InterfaceToolStandalone-1.0.2-Windows-Setup.exe",
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.2-Windows-Setup.exe",
+        "fileSize": 75603568,
+        "sha256": "68ee0ce16ef2c06caec62b12835ab9e939c17389baf5012bb5d55b22ae06f7f7"
       },
       "macos": {
         "displayName": "macOS",
         "os": "macos",
         "architecture": "universal",
-        "fileName": "TD1InterfaceToolStandalone-1.0.1-MacOS-Setup.pkg",
-        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.1-MacOS-Setup.pkg",
-        "fileSize": 46090713,
-        "sha256": "ecd8c78b52155f7c596f7cc616bd49e34e0c68569ce6b6c29bdf6f9171be5d39"
+        "fileName": "TD1InterfaceToolStandalone-1.0.2-MacOS-Setup.pkg",
+        "downloadUrl": "https://github.com/AJAX-3D-LLC/TD1iTs-version/releases/download/TD1iTs-v1.0.0/TD1InterfaceToolStandalone-1.0.2-MacOS-Setup.pkg",
+        "fileSize": 46116842,
+        "sha256": "1d5f6ad8f6fc1398bb03f8e9133fbc5ff77635cbdf646bcf2f4fffcafb39b067"
       },
       "linux": {
         "displayName": "Linux",
