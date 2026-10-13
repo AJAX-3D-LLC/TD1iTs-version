@@ -11,7 +11,7 @@
     "status": "current",
     "releaseDate": "2026-07-01",
     "releaseNotes": [
-      "Correctd an issue when selecting a license file to apply to a TD1."
+      "Corrected an issue when selecting a license file to apply to a TD1."
     ],
     "downloads": {
       "windows": {
@@ -52,7 +52,7 @@
       "status": "current",
       "releaseDate": "2026-10-13",
       "releaseNotes": [
-        "Correctred an issues when running Calibrate RGB Colors that caused a corrupt rgbOffset.py file"
+        "Corrected an issue when running Calibrate RGB Colors that caused a corrupt rgbOffset.py file."
       ],
       "downloads": {
         "zipUpdate": {
